@@ -32,7 +32,9 @@ Edit monitor.py:
 
 2. Replace YOUR_API_ID, YOUR_API_HASH, YOUR_BOT_USERNAME, and group IDs with your own details. （https://web.telegram.org/a/  Click on the conversation channel on the web page. The number at the top of the web page is the channel group ID -100）
 
-3. (Optional) Add a persistent record file: If you want to retain contract data between sessions, ensure the file contract_records.json is present in the same directory.
+3. Visit the trading robot,(https://t.me/diomedes_trojanbot?start=r-mikaelyou),Follow the prompts to create a wallet,Then we need to set up and auto-buy, set up and start auto-sell
+
+4. (Optional) Add a persistent record file: If you want to retain contract data between sessions, ensure the file contract_records.json is present in the same directory.
 
 Usage
 
